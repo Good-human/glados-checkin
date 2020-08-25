@@ -1,4 +1,0 @@
-name: 'GitHub Actions Checkin Glados everyday'
-on:
-  schedule:
-    - cron: '0 10 * * *'
